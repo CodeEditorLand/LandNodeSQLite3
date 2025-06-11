@@ -54,7 +54,7 @@
   "devDependencies": {
     "electron": "36.4.0",
     "eslint": "^9.28.0",
-    "mocha": "11.5.0"
+    "mocha": "11.6.0"
   },
   "scripts": {
     "pretest": "node test/support/createdb.js",
