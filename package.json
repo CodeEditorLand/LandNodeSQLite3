@@ -52,7 +52,7 @@
     "tar": "^7.4.3"
   },
   "devDependencies": {
-    "electron": "36.4.0",
+    "electron": "39.8.4",
     "eslint": "^9.28.0",
     "mocha": "11.6.0"
   },
